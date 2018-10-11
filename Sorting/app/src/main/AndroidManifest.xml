@@ -18,6 +18,9 @@
         </activity>
         <activity android:name=".BubbleSorting">
         </activity>
+	   <activity android:name=".InsertionSorting">
+        </activity>
+
 
     </application>
 
